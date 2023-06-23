@@ -1,0 +1,6 @@
+[DEBUG] 2023-06-23 17:03:20,747 org.example.Main - Import start.
+[DEBUG] 2023-06-23 17:03:20,771 org.example.Main - Import done.
+[DEBUG] 2023-06-23 17:03:20,771 org.example.Main - Collecting data from user start.
+[DEBUG] 2023-06-23 17:03:23,076 org.example.Main - Collecting data from user done.
+[DEBUG] 2023-06-23 17:03:23,076 org.example.Main - Printing relevant data start.
+[DEBUG] 2023-06-23 17:03:23,091 org.example.Main - Printing relevant data done.

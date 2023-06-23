@@ -1,5 +1,8 @@
 package org.example;
 
+/**
+ * This class is used to represent record from file iq_ranking.txt
+ */
 public class IqCountry {
     int place;
     String country;

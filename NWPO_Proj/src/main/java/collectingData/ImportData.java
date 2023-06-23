@@ -8,6 +8,11 @@ import java.util.List;
 import java.util.Scanner;
 
 public class ImportData {
+    /**
+     * This class is responsible for importing data about average iq in countries from
+     * file iq_ranking.txt inside package org.example.
+     * @return list of IqCountry
+     */
     public static List<IqCountry> importPeopla() {
         List<IqCountry> iqCountryList = new ArrayList<>();
         try {
