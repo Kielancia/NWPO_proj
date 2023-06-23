@@ -21,7 +21,6 @@ public class Main {
         loggerObj.debug("Import done.");
         int i = 1;
         Iterator var = iqCountryList.iterator();
-
         Scanner console = new Scanner(System.in);
         loggerObj.debug("Collecting data from user start.");
         System.out.print("Podaj dolny zakres przedzialu iq: ");

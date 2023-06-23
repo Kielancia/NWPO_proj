@@ -4,3 +4,30 @@
 [DEBUG] 2023-06-23 17:03:23,076 org.example.Main - Collecting data from user done.
 [DEBUG] 2023-06-23 17:03:23,076 org.example.Main - Printing relevant data start.
 [DEBUG] 2023-06-23 17:03:23,091 org.example.Main - Printing relevant data done.
+[DEBUG] 2023-06-23 18:20:36,453 org.example.Main - Import start.
+[DEBUG] 2023-06-23 18:20:36,485 org.example.Main - Import done.
+[DEBUG] 2023-06-23 18:20:36,485 org.example.Main - Collecting data from user start.
+[DEBUG] 2023-06-23 18:21:54,162 org.example.Main - Import start.
+[DEBUG] 2023-06-23 18:21:54,197 org.example.Main - Import done.
+[DEBUG] 2023-06-23 18:21:54,198 org.example.Main - Collecting data from user start.
+[DEBUG] 2023-06-23 18:22:19,411 org.example.Main - Import start.
+[DEBUG] 2023-06-23 18:22:19,437 org.example.Main - Import done.
+[DEBUG] 2023-06-23 18:22:19,438 org.example.Main - Collecting data from user start.
+[DEBUG] 2023-06-23 18:23:04,741 org.example.Main - Import start.
+[DEBUG] 2023-06-23 18:23:04,775 org.example.Main - Import done.
+[DEBUG] 2023-06-23 18:23:04,776 org.example.Main - Collecting data from user start.
+[DEBUG] 2023-06-23 18:24:04,344 org.example.Main - Import start.
+[DEBUG] 2023-06-23 18:24:04,364 org.example.Main - Import done.
+[DEBUG] 2023-06-23 18:24:04,364 org.example.Main - Collecting data from user start.
+[DEBUG] 2023-06-23 20:26:26,572 org.example.Main - Import start.
+[DEBUG] 2023-06-23 20:26:26,594 org.example.Main - Import done.
+[DEBUG] 2023-06-23 20:26:26,594 org.example.Main - Collecting data from user start.
+[DEBUG] 2023-06-23 20:26:29,649 org.example.Main - Collecting data from user done.
+[DEBUG] 2023-06-23 20:26:29,650 org.example.Main - Printing relevant data start.
+[DEBUG] 2023-06-23 20:26:29,655 org.example.Main - Printing relevant data done.
+[DEBUG] 2023-06-23 20:31:34,332 org.example.Main - Import start.
+[DEBUG] 2023-06-23 20:31:34,357 org.example.Main - Import done.
+[DEBUG] 2023-06-23 20:31:34,358 org.example.Main - Collecting data from user start.
+[DEBUG] 2023-06-23 20:31:37,262 org.example.Main - Collecting data from user done.
+[DEBUG] 2023-06-23 20:31:37,262 org.example.Main - Printing relevant data start.
+[DEBUG] 2023-06-23 20:31:37,280 org.example.Main - Printing relevant data done.
